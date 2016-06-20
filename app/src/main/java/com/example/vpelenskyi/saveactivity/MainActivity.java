@@ -37,13 +37,14 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
 
 
     public MainFragment getMainFragment() {
-        //перевіряємо чи існує фрагмент і присвоюємо результат перевірки змінній
+        //перевіряємо чи існує фрагмент з такою міткою TAG_FRAGMENT
         mainFragment = (MainFragment) getFragmentManager().findFragmentByTag(TAG_FRAGMENT);
         //якщо перевірка верне null, то означає,
         // що фрагмент раніше не був створений і його нобхідно створити
         if (mainFragment == null) {
+            //створюємо новий екземпляр класу
             mainFragment = new MainFragment();
-            //записуємо створений екземпляр MainFragment у FragmentManager
+            //записуємо створений екземпляр MainFragment у FragmentManager  і даємо йому мітку TAG_FRAGMENT
             getFragmentManager().beginTransaction().add(mainFragment, TAG_FRAGMENT).commit();
         }
         return mainFragment;
