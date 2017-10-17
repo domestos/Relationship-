@@ -1,2 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24a0c5ba54584528cad7b32a3c321512ecca4faf">
+        <dex dex="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e11d65d06c651ef266578e22ca15a8cfcc999030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Valera\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_719479248102ea39313cf318e13f9c13298a79c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_217e8d6fd7fc98c8d5f21524b9428d9bebeee82b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Valera\.android\build-cache\4b16f7867844f09e73c3891957ec4bcb236f936b\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_8d8b0aae32d2114137fd93e131f1b35c48284f44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Valera\.android\build-cache\4b16f7867844f09e73c3891957ec4bcb236f936b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d79b8d1814889dde262824da3aa0a7251cedc88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Valera\.android\build-cache\4a5611328ab87aac7d15f7c62ffcfcb2048d4399\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Valera\AndroidStudioProjects\Relationship-\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_593dc729dec9e0cb65cb368f9432b6432b13bc65\classes.dex" />
+    </item>
+
+</items>

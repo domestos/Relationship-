@@ -71,7 +71,7 @@ public class MainFragment extends android.app.Fragment {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            return null;
+            return false;
         }
 
         @Override
